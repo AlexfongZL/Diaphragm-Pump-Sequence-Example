@@ -32,4 +32,4 @@ Please make sure to update tests as appropriate.
 [MIT](https://choosealicense.com/licenses/mit/)
 
 ## Contacts
-* [LinkedIn](https://www.linkedin.com/in/alex-fong-28213816b/)
+[LinkedIn](https://www.linkedin.com/in/alex-fong-28213816b/)
