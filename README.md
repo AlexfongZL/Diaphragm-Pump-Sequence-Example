@@ -31,5 +31,5 @@ Please make sure to update tests as appropriate.
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
 
-### Contacts
+## Contacts
 * [LinkedIn](https://www.linkedin.com/in/alex-fong-28213816b/)
