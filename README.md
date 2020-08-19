@@ -1,8 +1,32 @@
 # Diaphragm-Pump-Sequence-Example
-## This SIEMEN TIA V15.1 contains my an example for creating sequence for diaphragm pump.
-### The sequence is created by Alex Fox.
+In this example project, you can change the diaphragm pump state into 4 categories:
+* Disable
+* Enable
+* Run
+* Maintenance
 
-**The diagram below shows the general structure for this example program:**
+## System Requirements
+```bash
+- Totally Integrated Automation Portal
+  - Version V15.1 Update 4
+- STEP 7 Professional
+  - Version V15.1 Update 4
+- WinCC Advanced
+  - Version V15.1 Update 4
+```
+
+## General Program Structure
+The image below visualized the program structure.
+* The **Inputs**, **Processes**, and **Outputs** block are FC.
+* __Pumps__ block are situated inside __Processes__ block.
+* __Pump_Sequence__ inside the __Pumps__ block is the core program that execute the pump sequences.
+
 ![Program Structure](Program_Structure.png)
 
-*You are free to download and modify this program. I'm really glad that you think my example is usefull.*
+## Contributing
+Any ammendment are welcome. For any changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
