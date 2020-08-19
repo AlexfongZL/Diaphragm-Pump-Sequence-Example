@@ -1,19 +1,19 @@
 # Diaphragm-Pump-Sequence-Example
-In this example project, you can change the diaphragm pump state into 4 categories:
+In this example project, you can change the diaphragm pump's state into 4 categories:
 * Disable
 * Enable
 * Run
 * Maintenance
 
 ## System Requirements
-```bash
-- Totally Integrated Automation Portal
-  - Version V15.1 Update 4
-- STEP 7 Professional
-  - Version V15.1 Update 4
-- WinCC Advanced
-  - Version V15.1 Update 4
-```
+
+1. Totally Integrated Automation Portal 
+Version V15.1 Update 4
+  
+2. STEP 7 Professional Version V15.1 Update 4
+  
+3. WinCC Advanced Version V15.1 Update 4
+
 
 ## General Program Structure
 The image below visualized the program structure.
@@ -30,3 +30,8 @@ Please make sure to update tests as appropriate.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
+
+### Contacts
+* [E-mail](alexfong100@gmail.com)
+
+* [LinkedIn](https://www.linkedin.com/in/alex-fong-28213816b/)
